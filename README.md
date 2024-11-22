@@ -4,7 +4,7 @@
 
 ## What's Inside?  
 -  **Hands-on Projects**: Practical applications of concepts.  
--  **Innovative Solutions**: Creative approaches to problem-solving.  
+-  **Innovative Solutions**: Creative approaches to problem-solving. 
 -  **Real-World Applications**: Bridging theory with implementation.  
 
 ## Stay Tuned  
