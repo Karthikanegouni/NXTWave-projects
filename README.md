@@ -8,11 +8,13 @@
 -  **Real-World Applications**: Bridging theory with implementation.
 
 
-## Webpages live at 
-- [Covid App](https://covidappui.ccbp.tech/)  
-- [Netflix](https://akarthikgoud.ccbp.tech/)  
-- [Podcast App](https://akarthikpodcast.ccbp.tech/)  
-- [Calculator](https://ioscalculator.ccbp.tech/)
+## Visit Webpages at
+
+- <a href="https://covidappui.ccbp.tech/" target="_blank">Covid App</a>
+- <a href="https://akarthikgoud.ccbp.tech/" target="_blank">Netflix</a>
+- <a href="https://akarthikpodcast.ccbp.tech/" target="_blank">Podcast App</a>
+- <a href="https://ioscalculator.ccbp.tech/" target="_blank">Calculator</a>
+
 
 ## Stay Tuned  
 Exciting updates as I continue to learn and grow! 💻  
