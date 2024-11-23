@@ -9,10 +9,10 @@
 
 
 ## Webpages live at 
-- Covid App -> https://covidappui.ccbp.tech/
-- Netflix -> https://akarthikgoud.ccbp.tech/
-- Podcast App -> https://akarthikpodcast.ccbp.tech/
-- calculator -> https://ioscalculator.ccbp.tech/
+- [Covid App](https://covidappui.ccbp.tech/)  
+- [Netflix](https://akarthikgoud.ccbp.tech/)  
+- [Podcast App](https://akarthikpodcast.ccbp.tech/)  
+- [Calculator](https://ioscalculator.ccbp.tech/)
 
 ## Stay Tuned  
 Exciting updates as I continue to learn and grow! 💻  
