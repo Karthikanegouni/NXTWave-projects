@@ -9,10 +9,10 @@
 
 
 ## Visit Webpages at
-- [🔗 Covid App](https://covidappui.ccbp.tech/)
-- [🌐 Netflix](https://akarthikgoud.ccbp.tech/)
-- [🎧 Podcast App](https://akarthikpodcast.ccbp.tech/)
-- [🧮 Calculator](https://ioscalculator.ccbp.tech/)
+- 🔗[Covid App](https://covidappui.ccbp.tech/)
+- 🌐[Netflix](https://akarthikgoud.ccbp.tech/)
+- 🎧[Podcast App](https://akarthikpodcast.ccbp.tech/)
+- 🧮[Calculator](https://ioscalculator.ccbp.tech/)
 
 
 ## Stay Tuned  
