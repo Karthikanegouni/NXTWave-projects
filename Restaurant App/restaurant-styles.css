@@ -1,24 +1,100 @@
-#logo{
-    border-style: solid;
-    padding:5px 15px 5px 15px;
-    border-color: orange;
-    border-radius: 10px;
-    color: orange;
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.website-logo {
+  height: 35px;
 }
 
-
-#custom-nav{
-    position: sticky;
-    top:0;
+#custom-nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
-.banner-section-bg{
-    background-image: url("https://img.freepik.com/premium-photo/tokyo-japan-january-09-2018-chefs-are-cooking-restaurant-most-popular-delicious-japanese-snack-food-japan_175935-25.jpg?ga=GA1.1.1180797953.1731907740&semt=ais_hybrid");
-    background-size:cover;
-    height:90vh;
+.banner-section-bg {
+  background-image: url("https://img.freepik.com/free-photo/top-view-table-full-food_23-2149209253.jpg");
+  background-size: cover;
+  height: 90vh;
+  color: white;
 }
 
+.text {
+  margin: 25px;
+  font-family: "Bree Serif";
+  text-shadow: 0px 5px 3px black;
+}
 
-.menu-section-bg{
-    height:100vh;
+#custom-btn {
+  background-color: transparent;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px 20px 5px 20px;
+  border-width: 3px;
+  text-shadow: 0px 5px 3px rgb(53, 45, 2);
+}
+#custom-btn:hover {
+  opacity: 85%;
+  transform: scale(1.1);
+  box-shadow: 5px 5px rgb(231, 181, 181);
+  transition: transform 0.3s ease-in-out;
+  background-color: maroon;
+}
+
+.food-img {
+  height: 80px;
+  width: 80px;
+  padding: 5px;
+  margin-top: 20px;
+}
+
+.wcu-section {
+  background-color: antiquewhite;
+  height: 100vh;
+}
+
+.wcu-main-heading {
+  margin-top: 50px;
+}
+
+.item-card {
+  background-color: wheat;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.wcu-heading {
+  font-family: Roboto;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.explore-menu-section {
+  background-color: antiquewhite;
+}
+
+.menu-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+  margin-top: 50px;
+}
+.menu-item-image {
+  border-radius: 16px;
+}
+.menu-card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+.menu-item-link {
+  color: #d0b200;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+.menu-item-card {
+  border-radius: 16px;
 }
