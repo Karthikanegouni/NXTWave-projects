@@ -17,4 +17,4 @@ _A repository dedicated to showcasing my NxtWave journey through source code!_
 
 ## Stay Tuned
 
-Exciting updates as I continue to learn and grow!
+Exciting updates as I continue to learn and grow! 💻
